@@ -1,0 +1,30 @@
+.list {
+  list-style-type: none;
+  padding-left: 0;
+  background: #E0E0E0;
+  margin: 0 5px;
+  padding: 8px;
+  border-radius: 2px;
+}
+
+.name-header {
+  text-align: center;
+  padding: 6px 6px;
+  margin: 0;
+}
+
+.name-0 {
+  background-color: rgb(189, 136, 189);
+}
+
+.name-1 {
+  background-color: aqua;
+}
+
+.name-2 {
+  background-color: rgb(101, 101, 159);
+}
+
+.name-3 {
+  background-color: orange;
+}
